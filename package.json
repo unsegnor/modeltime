@@ -1,6 +1,6 @@
 {
   "name": "modeltime",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "description": "Test and use time in javascript",
   "main": "index.js",
   "dockerHubUsername": "vcalatayud",
